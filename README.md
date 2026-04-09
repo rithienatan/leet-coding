@@ -1,4 +1,21 @@
-MIT License
+# Leet Coding Solutions by Me
+
+This repository contains all leet code tests i've done categorize by these following programming languages:
+
+- TypeScript/JavaScript
+- Python
+- Java
+- Go
+
+## Folder Structure
+
+
+## Summary
+
+
+## My contact
+
+## License
 
 Copyright (c) 2026 Rithie Natan Carvalhaes Prado
 

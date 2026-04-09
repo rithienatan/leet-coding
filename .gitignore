@@ -1,0 +1,7 @@
+# Ignore compiled Java class files in the java directory
+/java/algorithms/easy/*.class
+
+
+# Ignore node_modules and package-lock.json for the typescript-javascript folder
+/typescript-javascript/node_modules/
+/typescript-javascript/package-lock.json
