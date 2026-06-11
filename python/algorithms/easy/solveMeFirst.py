@@ -1,7 +1,7 @@
 """
 Author: Rithie Natan Carvalhaes Prado
 Date: 2026-04-09
-Last modified: 2026-04-09
+Last modified: 2026-06-11
 Description: Solve Me First - HackerRank
 Test description: https://www.hackerrank.com/challenges/solve-me-first/problem
 """
@@ -24,14 +24,3 @@ def solveMeFirst(a: int, b: int) -> int:
         raise ValueError("Input integers must be within the range of 1 to 1000.")
 
     return a + b
-
-
-#---------- Main ----------
-if __name__ == "__main__":
-    """
-    The main function to test other kind of inputs.
-    """
-    num1 = int(input())
-    num2 = int(input())
-    res = solveMeFirst(num1, num2)
-    print(res)
