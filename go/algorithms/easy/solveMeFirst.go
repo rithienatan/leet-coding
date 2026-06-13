@@ -1,12 +1,12 @@
-/*
-Author: Rithie Natan Carvalhaes Prado
-Date: 2026-04-09
-Last modified: 2026-06-11
-Description: Solve Me First - HackerRank
-See: https://www.hackerrank.com/challenges/solve-me-first/problem
-*/
+/**
+ * Author: Rithie Natan Carvalhaes Prado
+ * Date: 2026-04-09
+ * Last modified: 2026-06-13
+ * Description: Solve Me First - HackerRank
+ * See: https://www.hackerrank.com/challenges/solve-me-first/problem
+ */
 //--------- package ---------
-package main
+package easy
 
 
 //--------- imports ---------

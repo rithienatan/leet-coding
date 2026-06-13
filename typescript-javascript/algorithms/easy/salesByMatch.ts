@@ -1,7 +1,7 @@
 /**
  * @author Rithie Natan Carvalhaes Prado
  * @date 2026-05-19
- * Last modified: 2026-06-11
+ * Last modified: 2026-06-13
  * @description Sales by Match - HackerRank
  * @see {@link https://www.hackerrank.com/challenges/sales-by-match/problem}
  */
@@ -23,7 +23,6 @@ function sockMerchant(n: number, ar: number[]): number
         if(ar[i] === ar[j])
         { countPair++; i += 1; j += 1; }
     }//end for
-    
     
     return(countPair);
 }//sockMerchant()

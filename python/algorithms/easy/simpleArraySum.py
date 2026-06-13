@@ -1,7 +1,7 @@
 """
 Author: Rithie Natan Carvalhaes Prado
 Date: 2026-04-24
-Last modified: 2026-06-11
+Last modified: 2026-06-13
 Description: Simple Array Sum - HackerRank
 Test description: https://www.hackerrank.com/challenges/solve-me-first/problem
 """
@@ -10,12 +10,6 @@ import functools
 
 
 #---------- functions ----------
-#
-# Complete the 'simpleArraySum' function below.
-#
-# The function is expected to return an INTEGER.
-# The function accepts INTEGER_ARRAY ar as parameter.
-#
 def simpleArraySum(ar: list[int]) -> int:
     """
     Receive an array and sum all itens inside of it.
